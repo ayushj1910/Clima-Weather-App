@@ -1,11 +1,14 @@
 .App {
   text-align: center;
+  height: 100vh;
+  /* background-color: #282c34; */
+
 }
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -36,3 +39,31 @@
     transform: rotate(360deg);
   }
 }
+/* #searchInput:focus .css-x6vx7i-MuiInputBase-root-MuiOutlinedInput-root{
+  border-radius: 25px;
+} */
+/* .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+  color: white;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+  color: wheat;
+}
+.MuiTextField-root{
+  color: white;
+} */
+
+/* .MuiInputBase-root .MuiOutlinedInput-root .MuiInputBase-colorPrimary .MuiInputBase-formControl .css-x6vx7i-MuiInputBase-root-MuiOutlinedInput-root{
+  border-radius: 25px;
+} */
+/* .MuiInputBase-root .MuiOutlinedInput-root .MuiInputBase-colorPrimary .MuiInputBase-formControl .css-x6vx7i-MuiInputBase-root-MuiOutlinedInput-root{
+ border-radius: 23px;
+}
+.MuiOutlinedInput-notchedOutline .css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+ border-radius: 23px;
+
+}
+.css-x6vx7i-MuiInputBase-root-MuiOutlinedInput-root .Mui-focused .MuiOutlinedInput-notchedOutline{
+ border-radius: 23px;
+
+} */
