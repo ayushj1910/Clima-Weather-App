@@ -28,7 +28,6 @@ export const WeatherInfo = () => {
         return response.json();
       })
       .then((data) => {
-        console.log(data);
         if (data.cod !== "404") {
           setData(data);
         } else {
